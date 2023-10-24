@@ -1,0 +1,8 @@
+﻿@page
+@using CTR_EvPMAnalysis.Controllers;
+@model MetricsController
+
+<h1>CTR: @Model.ResultsModel.CTR.ToString("P")</h1>
+<h1>EvPM: @Model.ResultsModel.EvPM.ToString("F2")</h1>
+
+<script src="/_framework/aspnetcore-browser-refresh.js"></script>
