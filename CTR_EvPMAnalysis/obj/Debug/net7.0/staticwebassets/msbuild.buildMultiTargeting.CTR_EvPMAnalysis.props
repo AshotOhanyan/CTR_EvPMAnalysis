@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CTR_EvPMAnalysis.props" />
+</Project>

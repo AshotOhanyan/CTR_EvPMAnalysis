@@ -1,0 +1,8 @@
+C:\MyProjects\CTR_EvPMAnalysis\CTR_EvPMAnalysis\bin\Release\net7.0\publish\CTR_EvPMAnalysis.exe
+C:\MyProjects\CTR_EvPMAnalysis\CTR_EvPMAnalysis\bin\Release\net7.0\publish\appsettings.Development.json
+C:\MyProjects\CTR_EvPMAnalysis\CTR_EvPMAnalysis\bin\Release\net7.0\publish\appsettings.json
+C:\MyProjects\CTR_EvPMAnalysis\CTR_EvPMAnalysis\bin\Release\net7.0\publish\CTR_EvPMAnalysis.dll
+C:\MyProjects\CTR_EvPMAnalysis\CTR_EvPMAnalysis\bin\Release\net7.0\publish\CTR_EvPMAnalysis.deps.json
+C:\MyProjects\CTR_EvPMAnalysis\CTR_EvPMAnalysis\bin\Release\net7.0\publish\CTR_EvPMAnalysis.runtimeconfig.json
+C:\MyProjects\CTR_EvPMAnalysis\CTR_EvPMAnalysis\bin\Release\net7.0\publish\CTR_EvPMAnalysis.pdb
+C:\MyProjects\CTR_EvPMAnalysis\CTR_EvPMAnalysis\bin\Release\net7.0\publish\CsvHelper.dll
