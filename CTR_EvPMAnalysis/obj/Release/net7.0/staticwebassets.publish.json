@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YjLmMafVAY9zBJg58hQGszASSs1hr/cDUDKdZSJxkXg=",
+  "Hash": "OKZxuvij9QRQJoQMpV3sutDM6MvS/UPsUUA6e5qXiXw=",
   "Source": "CTR_EvPMAnalysis",
   "BasePath": "_content/CTR_EvPMAnalysis",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\MyProjects\\CTR_EvPMAnalysis\\CTR_EvPMAnalysis\\wwwroot\\index.html",
+      "SourceId": "CTR_EvPMAnalysis",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MyProjects\\CTR_EvPMAnalysis\\CTR_EvPMAnalysis\\wwwroot\\",
+      "BasePath": "_content/CTR_EvPMAnalysis",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
       "Identity": "C:\\MyProjects\\CTR_EvPMAnalysis\\CTR_EvPMAnalysis\\wwwroot\\js\\site.js",

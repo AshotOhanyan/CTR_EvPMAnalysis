@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\MyProjects\\CTR_EvPMAnalysis\\CTR_EvPMAnalysis\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
       "Id": "C:\\MyProjects\\CTR_EvPMAnalysis\\CTR_EvPMAnalysis\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
